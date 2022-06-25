@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adicionando códigos no arquivo b.txt na branch master
+=======
+Adicionando códigos ao b.txt na branch 01
+>>>>>>> branch01
